@@ -16,4 +16,4 @@ src="http://7xrja7.com1.z0.glb.clouddn.com/50.jpg" alt="" /></a></td>
 </tr>
 </table>
 </br>
-<p>From left to right: Original RGB image, fish-eye distortion, vignetting, three color casting (red, green, blue channel, respectively.)</p>
+From left to right: Original RGB image, fish-eye distortion, vignetting, three color casting (red, green, blue channel, respectively.). I did not given other augmentation results because they are easy to imagine.
