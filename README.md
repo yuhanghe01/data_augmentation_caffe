@@ -4,15 +4,15 @@ Data augmentation has shown great vitalness in boosting image based deep learnin
 #example images after data augmentation
 <table>
 <tr>
-<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/test_img_github.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/test_img_github.jpg" alt="" /></a></td>
-<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/img_with_fish_distortion.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/img_with_fish_distortion.jpg" alt="" /></a></td>
-<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/img_with_vignetting.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/img_with_vignetting.jpg" alt="" /></a></td>
+<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/test_img_github.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/test_img_github.jpg" alt="orginal img" /></a></td>
+<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/img_with_fish_distortion.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/img_with_fish_distortion.jpg" alt="fish-eye distortion img" /></a></td>
+<td><a href="http://7xrja7.com1.z0.glb.clouddn.com/img_with_vignetting.jpg"><img src="http://7xrja7.com1.z0.glb.clouddn.com/img_with_vignetting.jpg" alt="vignetting img" /></a></td>
 <td><a href="http://7xrja7.com1.z0.glb.clouddn.com/16.jpg"><img 
-src="http://7xrja7.com1.z0.glb.clouddn.com/16.jpg" alt="" /></a></td>
+src="http://7xrja7.com1.z0.glb.clouddn.com/16.jpg" alt="color casting img1" /></a></td>
 <td><a href="http://7xrja7.com1.z0.glb.clouddn.com/36.jpg"><img 
-src="http://7xrja7.com1.z0.glb.clouddn.com/36.jpg" alt="" /></a></td>
+src="http://7xrja7.com1.z0.glb.clouddn.com/36.jpg" alt="color casting img2" /></a></td>
 <td><a href="http://7xrja7.com1.z0.glb.clouddn.com/50.jpg"><img 
-src="http://7xrja7.com1.z0.glb.clouddn.com/50.jpg" alt="" /></a></td>
+src="http://7xrja7.com1.z0.glb.clouddn.com/50.jpg" alt="color casting img3" /></a></td>
 </tr>
 </table>
 From left to right: Original RGB image, fish-eye distortion, vignetting, three color casting (red, green, blue channel, respectively.). I did not given other augmentation results because they are easy to imagine.
